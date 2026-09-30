@@ -93,7 +93,7 @@ Cloud-based visualisation supports remote observation of sensor behaviour and pr
 
 ### ThingSpeak Graph Visualisation
 
-![ThingSpeak Graph Visualisation](images/sem-4-ThingSpeak-Graph-Visualization.png)
+![ThingSpeak Graph Visualisation](images/sem-4-Thingspeak-Graph-Visualization.png)
 
 ## 10. Telegram Alert Mechanism
 
